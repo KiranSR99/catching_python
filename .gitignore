@@ -1,0 +1,17 @@
+# Ignore Jupyter checkpoint directories
+ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore environment files (except requirements.txt)
+.env
+*.env
